@@ -1,2 +1,1 @@
-# mtc-infra-dev
-terraform code for Training repo
+test content for dev terraform for env: infra
